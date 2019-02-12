@@ -1,0 +1,9 @@
+{
+    "env": {
+        "PORT": 3002,
+        "JWT_KEY":  "shAOUHSjsa65Ä$S$A%lk12j1o2jjoojojsaSuopadksfweby",
+        "DATABASE": "agenda",
+        "HOST" : "localhost:27017",
+        "PAGINATE": 5
+    }
+}
